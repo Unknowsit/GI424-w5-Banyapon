@@ -96,7 +96,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: 317bcfe3aeff25245a1c90e0bd2f15ee, type: 2}
   m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
@@ -4397,6 +4397,10 @@ PrefabInstance:
     - {fileID: 4338167541768815438, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
     - {fileID: 6338151360887720938, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
     - {fileID: 1621162705519686989, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 5103873845941592034, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 3801677542250524997, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 2129893342200259198, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+    - {fileID: 6986531841818475409, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 8332028495659846915, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
       insertIndex: 5
